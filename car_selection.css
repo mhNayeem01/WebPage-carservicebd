@@ -1,0 +1,1592 @@
+.car-selection .carservice-bd {
+  margin-right: 23.5px;
+  width: 796.5px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 40px;
+  color: #000000;
+}
+.car-selection .home {
+  margin-right: 11.5px;
+  width: 78.2px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.car-selection .dropdown {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.car-selection .services {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.car-selection .pricing {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.car-selection .contact {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.car-selection .frame-35 {
+  margin: 11.5px 0 12.5px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 499.2px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.car-selection .header {
+  margin: 0 60.8px 16.5px 60px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1319.2px;
+  box-sizing: border-box;
+}
+.car-selection .rectangle-6 {
+  background: #252E39;
+  margin-bottom: 50px;
+  width: 1500px;
+  height: 60px;
+}
+.car-selection .here-to-help-you-find-the-right-things {
+  margin: 246px 31.5px 154px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 80px;
+  line-height: 0.900;
+  color: #FFFFFF;
+}
+.car-selection .find-your-perfect-car {
+  margin-bottom: 40px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 32px;
+  text-decoration-line: underline;
+  line-height: 1.563;
+  color: #EC8620;
+}
+.car-selection .post-code {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 2.5;
+  color: #737373;
+}
+.car-selection .group-27 {
+  border-radius: 15px;
+  border: 0.5px solid #000000;
+  position: relative;
+  padding: 0 13px;
+  width: 225px;
+  box-sizing: border-box;
+}
+.car-selection .nationality {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 2.5;
+  color: #737373;
+}
+.car-selection .group-28 {
+  border-radius: 15px;
+  border: 0.5px solid #000000;
+  position: relative;
+  padding: 0 13px;
+  width: 225px;
+  box-sizing: border-box;
+}
+.car-selection .container-8 {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 510px;
+  box-sizing: border-box;
+}
+.car-selection .maker {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 2.5;
+  color: #737373;
+}
+.car-selection .group-29 {
+  border-radius: 15px;
+  border: 0.5px solid #000000;
+  position: relative;
+  padding: 0 13px;
+  width: 225px;
+  box-sizing: border-box;
+}
+.car-selection .model-no {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 2.5;
+  color: #737373;
+}
+.car-selection .group-30 {
+  border-radius: 15px;
+  border: 0.5px solid #000000;
+  position: relative;
+  padding: 0 13px;
+  width: 225px;
+  box-sizing: border-box;
+}
+.car-selection .container-5 {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 510px;
+  box-sizing: border-box;
+}
+.car-selection .cash {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 2.5;
+  color: #737373;
+}
+.car-selection .group-31 {
+  border-radius: 15px;
+  border: 0.5px solid #000000;
+  position: relative;
+  padding: 0 13px;
+  width: 225px;
+  box-sizing: border-box;
+}
+.car-selection .finance {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 2.5;
+  color: #737373;
+}
+.car-selection .group-32 {
+  border-radius: 15px;
+  border: 0.5px solid #000000;
+  position: relative;
+  padding: 0 13px;
+  width: 225px;
+  box-sizing: border-box;
+}
+.car-selection .container-2 {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 510px;
+  box-sizing: border-box;
+}
+.car-selection .min-price {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 2.5;
+  color: #737373;
+}
+.car-selection .group-33 {
+  border-radius: 15px;
+  border: 0.5px solid #000000;
+  position: relative;
+  padding: 0 13px;
+  width: 225px;
+  box-sizing: border-box;
+}
+.car-selection .max-price {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 2.5;
+  color: #737373;
+}
+.car-selection .group-34 {
+  border-radius: 15px;
+  border: 0.5px solid #000000;
+  position: relative;
+  padding: 0 13px;
+  width: 225px;
+  box-sizing: border-box;
+}
+.car-selection .container-16 {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 510px;
+  box-sizing: border-box;
+}
+.car-selection .container {
+  width: 20px;
+  height: 20px;
+}
+.car-selection .search-1 {
+  margin: 13.8px 15.8px 16.3px 0;
+  display: flex;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.car-selection .search {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 1.786;
+  color: #FFFFFF;
+}
+.car-selection .group-35 {
+  box-shadow: 5px 5px 15px 0px rgba(0, 0, 0, 0.15);
+  border-radius: 15px;
+  justify-content: center;
+  background: #995E1C;
+  position: relative;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  width: 510px;
+  box-sizing: border-box;
+}
+.car-selection .reset {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 1.786;
+  color: #FFFFFF;
+}
+.car-selection .group-36 {
+  box-shadow: 5px 5px 15px 0px rgba(0, 0, 0, 0.15);
+  border-radius: 15px;
+  background: #FF0000;
+  justify-content: center;
+  position: relative;
+  display: flex;
+  padding-left: 1px;
+  width: 225px;
+  box-sizing: border-box;
+}
+.car-selection .more-options {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  justify-content: center;
+  align-items: center;
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 1.786;
+  color: #FFFFFF;
+}
+.car-selection .group-37 {
+  box-shadow: 5px 5px 15px 0px rgba(0, 0, 0, 0.15);
+  border-radius: 15px;
+  background: #00A382;
+  position: relative;
+  display: flex;
+  padding-left: 1px;
+  width: 225px;
+  box-sizing: border-box;
+}
+.car-selection .container-23 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 510px;
+  box-sizing: border-box;
+}
+.car-selection .frame-10 {
+  box-shadow: 5px 5px 15px 0px rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 20px 40px 20px;
+  width: 550px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.car-selection .frame-4 {
+  background: url('../assets/images/frame_4.jpeg'), linear-gradient(rgba(170, 170, 170, 0.05), rgba(170, 170, 170, 0.05));
+  display: flex;
+  flex-direction: row;
+  padding: 25px 31px 25px 56px;
+  box-sizing: border-box;
+}
+.car-selection .lease-abrand-new-car {
+  margin: 0 0 30px 57px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 40px;
+  text-decoration-line: underline;
+  line-height: 0.806;
+  color: #000000;
+}
+.car-selection .rectangle-107 {
+  border-radius: 5px;
+  border-left: 1px solid #000000;
+  border-top: 1px solid #000000;
+  border-right: 1px solid #000000;
+  background: url('../assets/images/rectangle_1072.png') 50% / cover no-repeat, linear-gradient(#D9D9D9, #D9D9D9);
+  width: 400px;
+  height: 360px;
+}
+.car-selection .from-100-per-month {
+  margin-right: 141.5px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 2.5;
+  color: #000000;
+}
+.from-100-per-month-sub1 {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 1.333;
+}
+.car-selection .miles-pa {
+  margin: 88.5px 0 4.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 2.273;
+  color: #000000;
+}
+.car-selection .container-24 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.car-selection .month-contract {
+  position: absolute;
+  right: 0.6px;
+  bottom: 42.5px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 2.273;
+  color: #000000;
+}
+.car-selection .initial-payment {
+  position: absolute;
+  top: 17.5px;
+  right: 0.3px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 2.273;
+  color: #000000;
+}
+.car-selection .container-4 {
+  position: relative;
+  margin: 0 11px 0 12px;
+  display: flex;
+  box-sizing: border-box;
+}
+.car-selection .car-1 {
+  border-radius: 5px;
+  border: 1px solid #737373;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 17.5px;
+  box-sizing: border-box;
+}
+.car-selection .rectangle-1071 {
+  border-radius: 5px;
+  border-left: 1px solid #000000;
+  border-top: 1px solid #000000;
+  border-right: 1px solid #000000;
+  background: url('../assets/images/rectangle_107.png'), linear-gradient(#D9D9D9, #D9D9D9);
+  width: 400px;
+  height: 360px;
+}
+.car-selection .from-100-per-month-1 {
+  margin-right: 141.5px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 2.5;
+  color: #000000;
+}
+.from-100-per-month-1-sub1 {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 1.333;
+}
+.car-selection .miles-pa-1 {
+  margin: 88.5px 0 4.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 2.273;
+  color: #000000;
+}
+.car-selection .container-9 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.car-selection .month-contract-1 {
+  position: absolute;
+  right: 0.6px;
+  bottom: 42.5px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 2.273;
+  color: #000000;
+}
+.car-selection .initial-payment-1 {
+  position: absolute;
+  top: 17.5px;
+  right: 0.3px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 2.273;
+  color: #000000;
+}
+.car-selection .container-6 {
+  position: relative;
+  margin: 0 11px 0 12px;
+  display: flex;
+  box-sizing: border-box;
+}
+.car-selection .car-11 {
+  border-radius: 5px;
+  border: 1px solid #737373;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 17.5px;
+  box-sizing: border-box;
+}
+.car-selection .rectangle-1072 {
+  border-radius: 5px;
+  border-left: 1px solid #000000;
+  border-top: 1px solid #000000;
+  border-right: 1px solid #000000;
+  background: url('../assets/images/rectangle_1074.png'), linear-gradient(#D9D9D9, #D9D9D9);
+  width: 400px;
+  height: 360px;
+}
+.car-selection .from-100-per-month-2 {
+  margin-right: 141.5px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 2.5;
+  color: #000000;
+}
+.from-100-per-month-2-sub1 {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 1.333;
+}
+.car-selection .miles-pa-2 {
+  margin: 88.5px 0 4.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 2.273;
+  color: #000000;
+}
+.car-selection .container-21 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.car-selection .month-contract-2 {
+  position: absolute;
+  right: 0.6px;
+  bottom: 42.5px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 2.273;
+  color: #000000;
+}
+.car-selection .initial-payment-2 {
+  position: absolute;
+  top: 17.5px;
+  right: 0.3px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 2.273;
+  color: #000000;
+}
+.car-selection .container-15 {
+  position: relative;
+  margin: 0 11px 0 12px;
+  display: flex;
+  box-sizing: border-box;
+}
+.car-selection .car-12 {
+  border-radius: 5px;
+  border: 1px solid #737373;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 17.5px;
+  box-sizing: border-box;
+}
+.car-selection .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  column-gap: 30px;
+  box-sizing: border-box;
+}
+.car-selection .rectangle-1073 {
+  border-radius: 5px;
+  border-left: 1px solid #000000;
+  border-top: 1px solid #000000;
+  border-right: 1px solid #000000;
+  background: url('../assets/images/rectangle_1075.png') 50% / cover no-repeat, linear-gradient(#D9D9D9, #D9D9D9);
+  width: 400px;
+  height: 360px;
+}
+.car-selection .from-100-per-month-3 {
+  margin-right: 141.5px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 2.5;
+  color: #000000;
+}
+.from-100-per-month-3-sub1 {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 1.333;
+}
+.car-selection .miles-pa-3 {
+  margin: 88.5px 0 4.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 2.273;
+  color: #000000;
+}
+.car-selection .container-12 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.car-selection .month-contract-3 {
+  position: absolute;
+  right: 0.6px;
+  bottom: 42.5px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 2.273;
+  color: #000000;
+}
+.car-selection .initial-payment-3 {
+  position: absolute;
+  top: 17.5px;
+  right: 0.3px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 2.273;
+  color: #000000;
+}
+.car-selection .container-22 {
+  position: relative;
+  margin: 0 11px 0 12px;
+  display: flex;
+  box-sizing: border-box;
+}
+.car-selection .car-13 {
+  border-radius: 5px;
+  border: 1px solid #737373;
+  background: #FFFFFF;
+  position: absolute;
+  right: -430px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 17.5px;
+  width: 400px;
+  height: 520px;
+  box-sizing: border-box;
+}
+.car-selection .rectangle-1074 {
+  border-radius: 5px;
+  border-left: 1px solid #000000;
+  border-top: 1px solid #000000;
+  border-right: 1px solid #000000;
+  background: url('../assets/images/rectangle_1073.png'), linear-gradient(#D9D9D9, #D9D9D9);
+  width: 400px;
+  height: 360px;
+}
+.car-selection .from-100-per-month-4 {
+  margin-right: 141.5px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 2.5;
+  color: #000000;
+}
+.from-100-per-month-4-sub1 {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 1.333;
+}
+.car-selection .miles-pa-4 {
+  margin: 88.5px 0 4.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 2.273;
+  color: #000000;
+}
+.car-selection .container-25 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.car-selection .month-contract-4 {
+  position: absolute;
+  right: 0.6px;
+  bottom: 42.5px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 2.273;
+  color: #000000;
+}
+.car-selection .initial-payment-4 {
+  position: absolute;
+  top: 17.5px;
+  right: 0.3px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 2.273;
+  color: #000000;
+}
+.car-selection .container-13 {
+  position: relative;
+  margin: 0 11px 0 12px;
+  display: flex;
+  box-sizing: border-box;
+}
+.car-selection .car-14 {
+  border-radius: 5px;
+  border: 1px solid #737373;
+  background: #FFFFFF;
+  position: absolute;
+  right: -860px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 17.5px;
+  width: 400px;
+  height: 520px;
+  box-sizing: border-box;
+}
+.car-selection .rectangle-1075 {
+  border-radius: 5px;
+  border-left: 1px solid #000000;
+  border-top: 1px solid #000000;
+  border-right: 1px solid #000000;
+  background: url('../assets/images/rectangle_1071.png') 50% / cover no-repeat, linear-gradient(#D9D9D9, #D9D9D9);
+  width: 400px;
+  height: 360px;
+}
+.car-selection .from-100-per-month-5 {
+  margin-right: 141.5px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 2.5;
+  color: #000000;
+}
+.from-100-per-month-5-sub1 {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 1.333;
+}
+.car-selection .miles-pa-5 {
+  margin: 88.5px 0 4.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 2.273;
+  color: #000000;
+}
+.car-selection .container-17 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.car-selection .month-contract-5 {
+  position: absolute;
+  right: 0.6px;
+  bottom: 42.5px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 2.273;
+  color: #000000;
+}
+.car-selection .initial-payment-5 {
+  position: absolute;
+  top: 17.5px;
+  right: 0.3px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 2.273;
+  color: #000000;
+}
+.car-selection .container-28 {
+  position: relative;
+  margin: 0 11px 0 12px;
+  display: flex;
+  box-sizing: border-box;
+}
+.car-selection .car-15 {
+  border-radius: 5px;
+  border: 1px solid #737373;
+  background: #FFFFFF;
+  position: absolute;
+  right: -1290px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 17.5px;
+  width: 400px;
+  height: 520px;
+  box-sizing: border-box;
+}
+.car-selection .frame-12 {
+  position: relative;
+  display: flex;
+  box-sizing: border-box;
+}
+.car-selection .frame-11 {
+  background: rgba(217, 217, 217, 0.25);
+  position: absolute;
+  right: -60px;
+  bottom: -714px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px 119px 40px 61px;
+  width: 1440px;
+  height: 680px;
+  box-sizing: border-box;
+}
+.car-selection .lease-abrand-new-car-1 {
+  position: absolute;
+  left: 50%;
+  bottom: -798px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 300;
+  font-size: 40px;
+  text-decoration-line: underline;
+  line-height: 0.806;
+  color: #000000;
+}
+.car-selection .rectangle-109 {
+  background: url('../assets/images/rectangle_1095.png') 50% / cover no-repeat;
+  margin-bottom: 20px;
+  width: 200px;
+  height: 200px;
+}
+.car-selection .audi {
+  margin-right: 1px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.563;
+  color: #000000;
+}
+.car-selection .brand-1 {
+  border-radius: 5px;
+  border: 1px solid #54595F;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 0 10px 0;
+  width: 400px;
+  box-sizing: border-box;
+}
+.car-selection .rectangle-1091 {
+  background: url('../assets/images/rectangle_1093.png') 50% / cover no-repeat;
+  margin-bottom: 20px;
+  width: 200px;
+  height: 200px;
+}
+.car-selection .bmw {
+  margin-right: 1px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.563;
+  color: #000000;
+}
+.car-selection .brand-11 {
+  border-radius: 5px;
+  border: 1px solid #54595F;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 0 10px 0;
+  width: 400px;
+  box-sizing: border-box;
+}
+.car-selection .rectangle-1092 {
+  background: url('../assets/images/rectangle_1091.png') 50% / cover no-repeat;
+  margin-bottom: 20px;
+  width: 200px;
+  height: 200px;
+}
+.car-selection .nissan {
+  margin-right: 1px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.563;
+  color: #000000;
+}
+.car-selection .brand-12 {
+  border-radius: 5px;
+  border: 1px solid #54595F;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 0 10px 0;
+  width: 400px;
+  box-sizing: border-box;
+}
+.car-selection .container-11 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  column-gap: 30px;
+  width: 1260px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.car-selection .rectangle-1093 {
+  background: url('../assets/images/rectangle_1098.png') 50% / cover no-repeat;
+  margin-bottom: 20px;
+  width: 200px;
+  height: 200px;
+}
+.car-selection .chevrolet {
+  margin-right: 1px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.563;
+  color: #000000;
+}
+.car-selection .brand-13 {
+  border-radius: 5px;
+  border: 1px solid #54595F;
+  position: absolute;
+  right: 430px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 0 10px 0;
+  width: 400px;
+  box-sizing: border-box;
+}
+.car-selection .rectangle-1094 {
+  background: url('../assets/images/rectangle_1094.png') 50% / cover no-repeat;
+  margin-bottom: 20px;
+  width: 200px;
+  height: 200px;
+}
+.car-selection .gtr {
+  margin-right: 1px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.563;
+  color: #000000;
+}
+.car-selection .brand-14 {
+  border-radius: 5px;
+  border: 1px solid #54595F;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 0 10px 0;
+  width: 400px;
+  box-sizing: border-box;
+}
+.car-selection .frame-13 {
+  position: absolute;
+  right: -801px;
+  bottom: -1132px;
+  width: 2120px;
+  height: 300px;
+  box-sizing: border-box;
+}
+.car-selection .place-an-ad-on-our-website {
+  margin-bottom: 6px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 1.042;
+  color: #FFFFFF;
+}
+.car-selection .get-the-price-you-deserve {
+  margin-bottom: 6.5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.563;
+  color: #FFFFFF;
+}
+.car-selection .see-ouradvertising-prices {
+  margin-bottom: 16.5px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 1.786;
+  color: #FFFFFF;
+}
+.see-ouradvertising-prices-sub7 {
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 1.333;
+}
+.see-ouradvertising-prices {
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 28px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.car-selection .reg-no {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 2.5;
+  color: #737373;
+}
+.car-selection .group-40 {
+  box-shadow: 5px 5px 15px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 20px;
+  padding: 0 16px;
+  width: 285px;
+  box-sizing: border-box;
+}
+.car-selection .current-mileage {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 2.5;
+  color: #737373;
+}
+.car-selection .group-39 {
+  box-shadow: 5px 5px 15px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  background: #FFFFFF;
+  position: relative;
+  padding: 0 16px;
+  width: 285px;
+  box-sizing: border-box;
+}
+.car-selection .container-30 {
+  margin: 0 5.7px 20px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.car-selection .create-your-ad {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 2.5;
+  color: #737373;
+}
+.car-selection .group-38 {
+  box-shadow: 5px 5px 15px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 10px;
+  display: flex;
+  align-self: flex-start;
+  padding-left: 1px;
+  width: 285px;
+  box-sizing: border-box;
+}
+.car-selection .manage-existing-ads {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 24px;
+  text-decoration-line: underline;
+  line-height: 2.083;
+  color: #FFFFFF;
+}
+.car-selection .container-29 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.car-selection .rectangle-110 {
+  position: absolute;
+  right: -2px;
+  bottom: 0px;
+  width: 778px;
+  height: 406px;
+}
+.car-selection .frame-14 {
+  background: #995E1C;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: -1572px;
+  padding: 30px;
+  box-sizing: border-box;
+}
+.car-selection .lease-abrand-new-car-2 {
+  position: absolute;
+  left: 50%;
+  bottom: -1656px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 40px;
+  text-decoration-line: underline;
+  line-height: 0.806;
+  color: #000000;
+}
+.car-selection .rectangle-1095 {
+  background: url('../assets/images/rectangle_1097.png') 50% / cover no-repeat;
+  margin-right: 1px;
+  width: 150px;
+  height: 150px;
+}
+.car-selection .what-sit-worth {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.563;
+  color: #F26722;
+}
+.car-selection .container-10 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.car-selection .get-afree-valuation-sell-or-part {
+  position: absolute;
+  left: 50%;
+  bottom: 50px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 2.273;
+  color: #54595F;
+}
+.car-selection .exchange-your-car-at-the-right-price {
+  position: absolute;
+  left: 50%;
+  bottom: 20px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 2.273;
+  color: #54595F;
+}
+.car-selection .brand-15 {
+  border-radius: 5px;
+  border: 1px solid #54595F;
+  position: relative;
+  margin-right: 30px;
+  display: flex;
+  padding: 10px 0 0 1px;
+  width: 400px;
+  height: 300px;
+  box-sizing: border-box;
+}
+.car-selection .rectangle-1096 {
+  background: url('../assets/images/rectangle_1092.png') 50% / cover no-repeat;
+  margin-right: 1px;
+  width: 150px;
+  height: 150px;
+}
+.car-selection .secutiry-advice {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.563;
+  color: #F26722;
+}
+.car-selection .container-18 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.car-selection .advice-on-how-to-buy-and-sell {
+  position: absolute;
+  left: 50%;
+  bottom: 50px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 2.273;
+  color: #54595F;
+}
+.car-selection .vehicles-safely {
+  position: absolute;
+  left: 50%;
+  bottom: 20px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 2.273;
+  color: #54595F;
+}
+.car-selection .brand-16 {
+  border-radius: 5px;
+  border: 1px solid #54595F;
+  position: relative;
+  margin-right: 30.5px;
+  display: flex;
+  padding: 10px 0 0 2px;
+  width: 400px;
+  height: 300px;
+  box-sizing: border-box;
+}
+.car-selection .rectangle-1097 {
+  background: url('../assets/images/rectangle_1096.png') 50% / cover no-repeat;
+  margin-right: 1px;
+  width: 150px;
+  height: 150px;
+}
+.car-selection .car-finance-loans {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.563;
+  color: transparent;
+}
+.car-selection .container-20 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.car-selection .discover-how-much-you-can-borrow {
+  position: absolute;
+  left: 50%;
+  bottom: 50px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 2.273;
+  color: #54595F;
+}
+.car-selection .and-find-the-right-package-for-you {
+  position: absolute;
+  left: 50%;
+  bottom: 20px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 2.273;
+  color: #54595F;
+}
+.car-selection .brand-17 {
+  border-radius: 5px;
+  border: 1px solid #54595F;
+  position: relative;
+  display: flex;
+  padding: 10px 34.5px 0 35.5px;
+  height: 300px;
+  box-sizing: border-box;
+}
+.car-selection .container-7 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.car-selection .rectangle-1098 {
+  background: url('../assets/images/rectangle_109.png') 50% / cover no-repeat;
+  margin-right: 1px;
+  width: 150px;
+  height: 150px;
+}
+.car-selection .check-acar-shistory {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.563;
+  color: #F26722;
+}
+.car-selection .container-19 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.car-selection .have-complete-peace-of-mind {
+  position: absolute;
+  left: 50%;
+  bottom: 50px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 2.273;
+  color: #54595F;
+}
+.car-selection .before-you-buy-your-next-car {
+  position: absolute;
+  left: 50%;
+  bottom: 20px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 2.273;
+  color: #54595F;
+}
+.car-selection .brand-18 {
+  border-radius: 5px;
+  border: 1px solid #54595F;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  display: flex;
+  padding: 10px 17.2px 0 19.2px;
+  height: 300px;
+  box-sizing: border-box;
+}
+.car-selection .frame-15 {
+  position: absolute;
+  right: -370.5px;
+  bottom: -1990px;
+  width: 1690.5px;
+  height: 300px;
+  box-sizing: border-box;
+}
+.car-selection .auto-service-2 {
+  background: url('../assets/images/auto_service_21.jpeg') 50% / cover no-repeat, url('../assets/images/auto_service_2.jpeg') 50% / cover no-repeat;
+  margin: 33.5px 0 24px 0;
+  width: 156px;
+  height: 80px;
+}
+.car-selection .section-link-privacy-policy {
+  margin: 0 7.5px 2px 0;
+  display: inline-block;
+  width: 149.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 13.9px;
+  line-height: 1.076;
+  color: #54595F;
+}
+.car-selection .section-link-refund-policy {
+  margin-top: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14.1px;
+  line-height: 1.067;
+  color: #54595F;
+}
+.car-selection .container-14 {
+  margin: 0 22.1px 16px 22.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 249.5px;
+  box-sizing: border-box;
+}
+/* .car-selection .section-link-02-play-store-btn-png {
+  background: url('../assets/images/section_link_02_play_store_btn_png.png');
+  margin-right: 20.2px;
+  width: 150px;
+  height: 40.5px;
+  
+} */
+/* .car-selection .section-link-01-app-store-btn-png {
+  background: url('../assets/images/section_link_01_app_store_btn_png.png');
+  width: 136.8px;
+  height: 40.5px;
+} */
+.car-selection .container-3 {
+  margin-bottom: 43.5px;
+  display: flex;
+  flex-direction: row;
+  width: 293.8px;
+  box-sizing: border-box;
+}
+.car-selection .section-2023-all-rights-reserved {
+  margin-left: 0.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 13.1px;
+  line-height: 1.067;
+  color: #54595F;
+}
+.car-selection .group-24 {
+  margin: 0.5px 0 6px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 293.8px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.car-selection .section-house-1-road-8-sector-5 {
+  margin: 0 0.8px 9.5px 0;
+  display: inline-block;
+  text-align: right;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14.5px;
+  line-height: 1.755;
+  color: #54595F;
+}
+.car-selection .section-09606404040 {
+  margin-bottom: 18px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12.7px;
+  line-height: 1.185;
+  color: #54595F;
+}
+.car-selection .section-supportzantrik-com {
+  margin: 0 1px 8px 15.8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 13.7px;
+  line-height: 1.094;
+  color: #54595F;
+}
+.car-selection .symbol {
+  margin-right: 10px;
+  width: 24.5px;
+  overflow-wrap: break-word;
+  font-family: 'Font Awesome 5 Brands', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1;
+  color: rgba(84, 89, 95, 0.73);
+}
+.car-selection .symbol-1 {
+  overflow-wrap: break-word;
+  font-family: 'Font Awesome 5 Brands', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1;
+  color: rgba(84, 89, 95, 0.73);
+}
+.car-selection .container-27 {
+  margin: 0 4.1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 46.5px;
+  box-sizing: border-box;
+}
+.car-selection .group-25 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.car-selection .group-26 {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: -2161px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
+.car-selection .frame-39 {
+  position: relative;
+  margin: 0 60px;
+  display: flex;
+  box-sizing: border-box;
+}
+.car-selection .container-26 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.car-selection .auto-service-1 {
+  background: url('../assets/images/auto_service_21.jpeg') 50% / cover no-repeat, url('../assets/images/auto_service_2.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 61px;
+  top: 90px;
+  width: 156px;
+  height: 57px;
+}
+.car-selection {
+  background: #FFFFFF;
+  display: flex;
+  padding-top: 16.5px;
+  width: 1440px;
+  box-sizing: border-box;
+}

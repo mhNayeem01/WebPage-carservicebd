@@ -1,0 +1,1159 @@
+
+.buy-and-sell .carservice-bd {
+  margin-right: 23.5px;
+  width: 796.5px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 40px;
+  color: #000000;
+}
+.buy-and-sell .home {
+  margin-right: 11.5px;
+  width: 78.3px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.buy-and-sell .dropdown {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.buy-and-sell .services {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.buy-and-sell .pricing {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.buy-and-sell .contact {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.buy-and-sell .frame-35 {
+  margin: 11.5px 0 12.5px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 499.2px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.buy-and-sell .header {
+  margin: 0 60.8px 16.5px 60px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1319.2px;
+  box-sizing: border-box;
+}
+.buy-and-sell .rectangle-6 {
+  background: #252E39;
+  margin-bottom: 111px;
+  width: 1440px;
+  height: 60px;
+}
+.buy-and-sell .add-filter {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 1.26;
+  color: #995E1C;
+}
+.buy-and-sell .filter {
+  margin: 10.5px 0 9.5px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.buy-and-sell .search-here {
+  margin-right: 20px;
+  width: 805px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 1.613;
+  color: #848282;
+}
+.buy-and-sell .search {
+  margin: 1.5px 0 3.5px 0;
+  width: 35px;
+  height: 35px;
+}
+.buy-and-sell .search-bar {
+  border-radius: 25px;
+  border: 2px solid #747373;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10.5px 20px 9.5px 20px;
+  width: 900px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.buy-and-sell .frame-29 {
+  border-bottom: 0.5px solid #D9D9D9;
+  background: #FFFFFF;
+  margin: 0 60px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px 85px 19.5px 87px;
+  width: 1320px;
+  box-sizing: border-box;
+}
+.buy-and-sell .sort-by {
+  margin-bottom: 8.5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 1.613;
+  color: #000000;
+}
+.buy-and-sell .date {
+  margin-right: 20px;
+  width: 181.3px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #000000;
+}
+.buy-and-sell .vector-2 {
+  width: 12.5px;
+  height: 6.3px;
+}
+.buy-and-sell .chevron-down {
+  margin: 16.4px 0 17.4px 0;
+  display: flex;
+  width: 12.5px;
+  height: 6.3px;
+  box-sizing: border-box;
+}
+.buy-and-sell .filter-1 {
+  border: 0.5px solid #737373;
+  position: relative;
+  margin-bottom: 10.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 16.3px 0 20px;
+  width: 250px;
+  box-sizing: border-box;
+}
+.buy-and-sell .filter-ads-by {
+  margin-bottom: 8.5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 1.613;
+  color: #000000;
+}
+.buy-and-sell .urgent {
+  margin-right: 20px;
+  width: 181.3px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #000000;
+}
+.buy-and-sell .vector-3 {
+  width: 12.5px;
+  height: 6.3px;
+}
+.buy-and-sell .chevron-down-1 {
+  margin: 16.4px 0 17.4px 0;
+  display: flex;
+  width: 12.5px;
+  height: 6.3px;
+  box-sizing: border-box;
+}
+.buy-and-sell .filter-2 {
+  border: 0.5px solid #737373;
+  position: relative;
+  margin-bottom: 10.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 16.3px 0 20px;
+  width: 250px;
+  box-sizing: border-box;
+}
+.buy-and-sell .type-of-post {
+  margin-bottom: 8.5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 1.613;
+  color: #000000;
+}
+.buy-and-sell .all {
+  margin-right: 20px;
+  width: 181.3px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #000000;
+}
+.buy-and-sell .vector-4 {
+  width: 12.5px;
+  height: 6.3px;
+}
+.buy-and-sell .chevron-down-2 {
+  margin: 16.4px 0 17.4px 0;
+  display: flex;
+  width: 12.5px;
+  height: 6.3px;
+  box-sizing: border-box;
+}
+.buy-and-sell .filter-3 {
+  border: 0.5px solid #737373;
+  position: relative;
+  margin-bottom: 10.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 16.3px 0 20px;
+  width: 250px;
+  box-sizing: border-box;
+}
+.buy-and-sell .search-by-brand {
+  margin-bottom: 10.5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 1.613;
+  color: #000000;
+}
+.buy-and-sell .rectangle-1279 {
+  border: 1px solid #D9C2AA;
+  background: #995E1C;
+  margin-bottom: 2.5px;
+  align-self: flex-start;
+  width: 25px;
+  height: 25px;
+}
+.buy-and-sell .rectangle-127 {
+  border: 1px solid #737373;
+  margin: 7.5px 9px 7.5px 0;
+  width: 25px;
+  height: 25px;
+}
+.buy-and-sell .audi {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #000000;
+}
+.buy-and-sell .cars {
+  margin-bottom: 2.5px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.buy-and-sell .rectangle-1271 {
+  border: 1px solid #737373;
+  margin-bottom: 10px;
+  align-self: flex-start;
+  width: 25px;
+  height: 25px;
+}
+.buy-and-sell .rectangle-1272 {
+  border: 1px solid #737373;
+  width: 25px;
+  height: 25px;
+}
+.buy-and-sell .cars-1 {
+  margin-bottom: 10px;
+  display: flex;
+  align-self: flex-start;
+  width: 25px;
+  height: 25px;
+  box-sizing: border-box;
+}
+.buy-and-sell .rectangle-1273 {
+  border: 1px solid #737373;
+  width: 25px;
+  height: 25px;
+}
+.buy-and-sell .cars-2 {
+  margin-bottom: 10px;
+  display: flex;
+  align-self: flex-start;
+  width: 25px;
+  height: 25px;
+  box-sizing: border-box;
+}
+.buy-and-sell .rectangle-1274 {
+  border: 1px solid #737373;
+  width: 25px;
+  height: 25px;
+}
+.buy-and-sell .cars-3 {
+  margin-bottom: 10px;
+  display: flex;
+  align-self: flex-start;
+  width: 25px;
+  height: 25px;
+  box-sizing: border-box;
+}
+.buy-and-sell .rectangle-1275 {
+  border: 1px solid #737373;
+  width: 25px;
+  height: 25px;
+}
+.buy-and-sell .cars-4 {
+  margin-bottom: 10px;
+  display: flex;
+  align-self: flex-start;
+  width: 25px;
+  height: 25px;
+  box-sizing: border-box;
+}
+.buy-and-sell .rectangle-1276 {
+  border: 1px solid #737373;
+  width: 25px;
+  height: 25px;
+}
+.buy-and-sell .cars-5 {
+  margin-bottom: 10px;
+  display: flex;
+  align-self: flex-start;
+  width: 25px;
+  height: 25px;
+  box-sizing: border-box;
+}
+.buy-and-sell .rectangle-1277 {
+  border: 1px solid #737373;
+  width: 25px;
+  height: 25px;
+}
+.buy-and-sell .cars-6 {
+  margin-bottom: 10px;
+  display: flex;
+  align-self: flex-start;
+  width: 25px;
+  height: 25px;
+  box-sizing: border-box;
+}
+.buy-and-sell .rectangle-1278 {
+  border: 1px solid #737373;
+  width: 25px;
+  height: 25px;
+}
+.buy-and-sell .cars-7 {
+  margin-bottom: 10.5px;
+  display: flex;
+  align-self: flex-start;
+  width: 25px;
+  height: 25px;
+  box-sizing: border-box;
+}
+.buy-and-sell .search-by-location {
+  margin: 0 23.2px 8.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 1.613;
+  color: #000000;
+}
+.buy-and-sell .all-country {
+  margin-right: 20px;
+  width: 181.3px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #000000;
+}
+.buy-and-sell .vector-5 {
+  width: 12.5px;
+  height: 6.3px;
+}
+.buy-and-sell .chevron-down-3 {
+  margin: 16.4px 0 17.4px 0;
+  display: flex;
+  width: 12.5px;
+  height: 6.3px;
+  box-sizing: border-box;
+}
+.buy-and-sell .filter-4 {
+  border: 0.5px solid #737373;
+  position: relative;
+  margin-bottom: 10.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 16.3px 0 20px;
+  width: 250px;
+  box-sizing: border-box;
+}
+.buy-and-sell .search-by-price {
+  margin-bottom: 8.5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 1.613;
+  color: #000000;
+}
+.buy-and-sell .min-price {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #000000;
+}
+.buy-and-sell .filter-5 {
+  border: 0.5px solid #737373;
+  position: relative;
+  margin-bottom: 10px;
+  padding: 0 20px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.buy-and-sell .max-price {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #000000;
+}
+.buy-and-sell .filter-6 {
+  border: 0.5px solid #737373;
+  position: relative;
+  margin-bottom: 20px;
+  padding: 0 20px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.buy-and-sell .filter-8 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  justify-content: center;
+  align-items: center;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #FFFFFF;
+}
+.buy-and-sell .filter-7 {
+  border-radius: 5px;
+  background: #995E1C;
+  position: relative;
+  margin-bottom: 20px;
+  display: flex;
+  width: 250px;
+  box-sizing: border-box;
+}
+.buy-and-sell .reset-all {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #FFFFFF;
+}
+.buy-and-sell .filter-9 {
+  border-radius: 5px;
+  background: #00C2A0;
+  position: relative;
+  display: flex;
+  width: 250px;
+  box-sizing: border-box;
+}
+.buy-and-sell .container-7 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.buy-and-sell .bmw {
+  position: absolute;
+  left: 54px;
+  top: 430.5px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #000000;
+}
+.buy-and-sell .chorvet {
+  position: absolute;
+  left: 54px;
+  top: 465.5px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #000000;
+}
+.buy-and-sell .mustang {
+  position: absolute;
+  left: 54px;
+  top: 500.5px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #000000;
+}
+.buy-and-sell .pagani {
+  position: absolute;
+  left: 54px;
+  top: 535.5px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #000000;
+}
+.buy-and-sell .mercedes {
+  position: absolute;
+  left: 54px;
+  top: 570.5px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #000000;
+}
+.buy-and-sell .porsche {
+  position: absolute;
+  left: 54px;
+  bottom: 593.5px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #000000;
+}
+.buy-and-sell .toyota {
+  position: absolute;
+  left: 54px;
+  bottom: 558.5px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #000000;
+}
+.buy-and-sell .honda {
+  position: absolute;
+  left: 54px;
+  bottom: 523.5px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #000000;
+}
+.buy-and-sell .all-1 {
+  position: absolute;
+  left: 54px;
+  top: 360.5px;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #000000;
+}
+.buy-and-sell .frame-27 {
+  box-shadow: 5px 5px 15px 0px rgba(0, 0, 0, 0.15);
+  border-right: 0.5px solid #D9D9D9;
+  background: #FFFFFF;
+  position: relative;
+  padding: 20.5px 20px 0 20px;
+  width: 315px;
+  height: 1239px;
+  box-sizing: border-box;
+}
+.buy-and-sell .home-buy-and-sell-search {
+  margin-bottom: 10px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #737373;
+}
+.buy-and-sell .rectangle-128 {
+  border-radius: 10px;
+  background: url('../assets/images/rectangle_107.png') 50% / cover no-repeat, linear-gradient(#D9D9D9, #D9D9D9);
+  margin-right: 39px;
+  width: 300px;
+  height: 200px;
+}
+.buy-and-sell .name {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #737373;
+}
+.buy-and-sell .location {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #737373;
+}
+.buy-and-sell .price {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #737373;
+}
+.buy-and-sell .container-11 {
+  margin: 5px 0 75px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.buy-and-sell .container-13 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.buy-and-sell .ad-post-time {
+  margin: 150px 0 9.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #737373;
+}
+.buy-and-sell .frame-30 {
+  box-shadow: 5px 5px 15px 0px rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+  border-bottom: 0.5px solid #737373;
+  background: #FFFFFF;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-right: 10px;
+  width: 984px;
+  box-sizing: border-box;
+}
+.buy-and-sell .rectangle-1281 {
+  border-radius: 10px;
+  background: url('../assets/images/rectangle_1072.png') 50% / cover no-repeat, linear-gradient(#D9D9D9, #D9D9D9);
+  margin-right: 39px;
+  width: 300px;
+  height: 200px;
+}
+.buy-and-sell .name-1 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #737373;
+}
+.buy-and-sell .location-1 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #737373;
+}
+.buy-and-sell .price-1 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #737373;
+}
+.buy-and-sell .container-1 {
+  margin: 5px 0 75px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.buy-and-sell .container-8 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.buy-and-sell .ad-post-time-1 {
+  margin: 150px 0 9.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #737373;
+}
+.buy-and-sell .frame-31 {
+  box-shadow: 5px 5px 15px 0px rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+  border-bottom: 0.5px solid #737373;
+  background: #FFFFFF;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-right: 10px;
+  width: 984px;
+  box-sizing: border-box;
+}
+.buy-and-sell .rectangle-1282 {
+  border-radius: 10px;
+  background: url('../assets/images/rectangle_1074.png') 50% / cover no-repeat, linear-gradient(#D9D9D9, #D9D9D9);
+  margin-right: 39px;
+  width: 300px;
+  height: 200px;
+}
+.buy-and-sell .name-2 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #737373;
+}
+.buy-and-sell .location-2 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #737373;
+}
+.buy-and-sell .price-2 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #737373;
+}
+.buy-and-sell .container-10 {
+  margin: 5px 0 75px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.buy-and-sell .container-2 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.buy-and-sell .ad-post-time-2 {
+  margin: 150px 0 9.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #737373;
+}
+.buy-and-sell .frame-32 {
+  box-shadow: 5px 5px 15px 0px rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+  border-bottom: 0.5px solid #737373;
+  background: #FFFFFF;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-right: 10px;
+  width: 984px;
+  box-sizing: border-box;
+}
+.buy-and-sell .rectangle-1283 {
+  border-radius: 10px;
+  background: url('../assets/images/rectangle_128.png') 50% / cover no-repeat, linear-gradient(#D9D9D9, #D9D9D9);
+  margin-right: 39px;
+  width: 300px;
+  height: 200px;
+}
+.buy-and-sell .name-3 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #737373;
+}
+.buy-and-sell .location-3 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #737373;
+}
+.buy-and-sell .price-3 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #737373;
+}
+.buy-and-sell .container-12 {
+  margin: 5px 0 75px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.buy-and-sell .container-5 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.buy-and-sell .ad-post-time-3 {
+  margin: 150px 0 9.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #737373;
+}
+.buy-and-sell .frame-33 {
+  box-shadow: 5px 5px 15px 0px rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+  border-bottom: 0.5px solid #737373;
+  background: #FFFFFF;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-right: 10px;
+  width: 984px;
+  box-sizing: border-box;
+}
+.buy-and-sell .rectangle-1284 {
+  border-radius: 10px;
+  background: url('../assets/images/rectangle_1073.png') 50% / cover no-repeat, linear-gradient(#D9D9D9, #D9D9D9);
+  margin-right: 39px;
+  width: 300px;
+  height: 200px;
+}
+.buy-and-sell .name-4 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #737373;
+}
+.buy-and-sell .location-4 {
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #737373;
+}
+.buy-and-sell .price-4 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #737373;
+}
+.buy-and-sell .container-15 {
+  margin: 5px 0 75px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.buy-and-sell .container-14 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.buy-and-sell .ad-post-time-4 {
+  margin: 150px 0 9.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #737373;
+}
+.buy-and-sell .frame-34 {
+  box-shadow: 5px 5px 15px 0px rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+  border-bottom: 0.5px solid #737373;
+  background: #FFFFFF;
+  margin-bottom: 39px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-right: 10px;
+  width: 984px;
+  box-sizing: border-box;
+}
+.buy-and-sell .previous-12348-next {
+  margin-right: 18px;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.833;
+  color: #737373;
+}
+.buy-and-sell .frame-28 {
+  box-shadow: 5px 5px 15px 0px rgba(0, 0, 0, 0.15);
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 0 1px 30px 20px;
+  box-sizing: border-box;
+}
+.buy-and-sell .container-4 {
+  margin: 0 60px 62.5px 60px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.buy-and-sell .auto-service-2 {
+  background: url('../assets/images/auto_service_21.jpeg') 50% / cover no-repeat, url('../assets/images/auto_service_2.jpeg') 50% / cover no-repeat;
+  margin: 33.5px 0 24px 0;
+  width: 156px;
+  height: 80px;
+}
+.buy-and-sell .section-link-privacy-policy {
+  margin: 0 7.5px 2px 0;
+  display: inline-block;
+  width: 149.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 13.9px;
+  line-height: 1.076;
+  color: #54595F;
+}
+.buy-and-sell .section-link-refund-policy {
+  margin-top: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14.1px;
+  line-height: 1.067;
+  color: #54595F;
+}
+.buy-and-sell .container-3 {
+  margin: 0 22.1px 16px 22.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 249.5px;
+  box-sizing: border-box;
+}
+/* .buy-and-sell .section-link-02-play-store-btn-png {
+  background: url('../assets/images/section_link_02_play_store_btn_png.png');
+  margin-right: 20.2px;
+  width: 136.8px;
+  height: 40.5px;
+} */
+/* .buy-and-sell .section-link-01-app-store-btn-png {
+  background: url('../assets/images/section_link_01_app_store_btn_png.png');
+  width: 136.8px;
+  height: 40.5px;
+} */
+.buy-and-sell .container {
+  margin-bottom: 43.5px;
+  display: flex;
+  flex-direction: row;
+  width: 293.8px;
+  box-sizing: border-box;
+}
+.buy-and-sell .section-2023-all-rights-reserved {
+  margin-left: 0.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 13.1px;
+  line-height: 1.067;
+  color: #54595F;
+}
+.buy-and-sell .group-24 {
+  margin: 0.5px 0 6px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 293.8px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.buy-and-sell .section-house-1-road-8-sector-5 {
+  margin: 0 0.8px 9.5px 0;
+  display: inline-block;
+  text-align: right;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14.5px;
+  line-height: 1.755;
+  color: #54595F;
+}
+.buy-and-sell .section-09606404040 {
+  margin-bottom: 18px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12.7px;
+  line-height: 1.185;
+  color: #54595F;
+}
+.buy-and-sell .section-supportzantrik-com {
+  margin: 0 1px 8px 15.8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 13.7px;
+  line-height: 1.094;
+  color: #54595F;
+}
+.buy-and-sell .symbol {
+  margin-right: 10px;
+  width: 24.5px;
+  overflow-wrap: break-word;
+  font-family: 'Font Awesome 5 Brands', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1;
+  color: rgba(84, 89, 95, 0.73);
+}
+.buy-and-sell .symbol-1 {
+  overflow-wrap: break-word;
+  font-family: 'Font Awesome 5 Brands', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1;
+  color: rgba(84, 89, 95, 0.73);
+}
+.buy-and-sell .container-9 {
+  margin: 0 4.1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 46.5px;
+  box-sizing: border-box;
+}
+.buy-and-sell .group-25 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.buy-and-sell .group-26 {
+  margin: 0 60px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1320px;
+  box-sizing: border-box;
+}
+.buy-and-sell .container-6 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.buy-and-sell .auto-service-1 {
+  background: url('../assets/images/auto_service_21.jpeg') 50% / cover no-repeat, url('../assets/images/auto_service_2.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 61px;
+  top: 90px;
+  width: 156px;
+  height: 60px;
+}
+.buy-and-sell {
+  background: #F6F6F6;
+  display: flex;
+  padding: 16.5px 0 11px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}

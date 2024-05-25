@@ -1,0 +1,507 @@
+.maintaenance-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #252e39;
+  width: 1440px;
+  height: 60px;
+}
+.auto-service-1,
+.frame-child {
+  position: absolute;
+  object-fit: cover;
+}
+.auto-service-1 {
+  top: 5px;
+  left: 61px;
+  width: 156px;
+  height: 55px;
+  cursor: pointer;
+}
+.frame-child {
+  top: 100px;
+  left: 60px;
+  border-radius: 25px;
+  width: 1320px;
+  height: 600px;
+}
+.maintaenance-inner {
+  position: absolute;
+  top: 60px;
+  left: 0;
+  background-color: rgba(170, 170, 170, 0.05);
+  width: 1440px;
+  height: 764px;
+  overflow: hidden;
+}
+.section-heading {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 659px);
+  text-decoration: underline;
+  line-height: 33.6px;
+  font-weight: 600;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1320px;
+  height: 50px;
+}
+.oilchangepng-icon {
+  position: absolute;
+  top: calc(50% - 21.6px);
+  left: 0;
+  width: 43.5px;
+  height: 43.2px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.divelementor-image {
+  position: absolute;
+  width: calc(100% - 100px);
+  top: 50px;
+  right: 50px;
+  left: 50px;
+  height: 43.2px;
+}
+.engine {
+  margin: 0;
+}
+.engine-servicing-txt-container {
+  line-break: anywhere;
+  width: 100%;
+}
+.engine-servicing {
+  position: absolute;
+  top: -0.5px;
+  left: 0;
+  line-height: 24px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 108.3px;
+  height: 48px;
+}
+.heading-4 {
+  position: absolute;
+  width: calc(100% - 100px);
+  top: 113.2px;
+  right: 50px;
+  left: 50px;
+  height: 48px;
+}
+.section {
+  width: 245px;
+  position: relative;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.15);
+  background-color: transparent;
+  height: 211.2px;
+}
+.car-washpng-icon {
+  position: absolute;
+  top: calc(50% - 21.75px);
+  left: 0;
+  width: 43.5px;
+  height: 43.5px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.divelementor-image1 {
+  position: absolute;
+  width: calc(100% - 100px);
+  top: 50px;
+  right: 50px;
+  left: 50px;
+  height: 43.5px;
+}
+.cleaning,
+.heading-41 {
+  position: absolute;
+  height: 24px;
+}
+.cleaning {
+  top: -0.5px;
+  left: 0;
+  line-height: 24px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 101.5px;
+}
+.heading-41 {
+  width: calc(100% - 100px);
+  top: 113.5px;
+  right: 50px;
+  left: 50px;
+}
+.lpg2jpg-icon {
+  position: absolute;
+  top: calc(50% - 23.75px);
+  left: 0;
+  width: 29px;
+  height: 47.5px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.divelementor-image2 {
+  position: absolute;
+  width: calc(100% - 100px);
+  top: 50px;
+  right: 50px;
+  left: 50px;
+  height: 47.5px;
+}
+.heading-42,
+.lpgcng {
+  position: absolute;
+  height: 24px;
+}
+.lpgcng {
+  top: -0.5px;
+  left: 0;
+  line-height: 24px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 109.5px;
+}
+.heading-42 {
+  width: calc(100% - 100px);
+  top: 117.5px;
+  right: 50px;
+  left: 50px;
+}
+.section2 {
+  width: 245px;
+  position: relative;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.15);
+  background-color: transparent;
+  height: 211.2px;
+  font-size: 23.8px;
+}
+.dentpaint {
+  position: absolute;
+  top: -0.5px;
+  left: 0;
+  line-height: 24px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 118.9px;
+  height: 24px;
+}
+.section3 {
+  width: 245px;
+  position: relative;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.15);
+  background-color: transparent;
+  height: 211.2px;
+  font-size: 23.1px;
+}
+.section-parent {
+  position: absolute;
+  top: 110px;
+  left: 61px;
+  width: 1320px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  font-size: 23.6px;
+}
+.air-condition,
+.heading-44 {
+  position: absolute;
+  height: 48px;
+}
+.air-condition {
+  top: -0.5px;
+  left: 0;
+  line-height: 24px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 112.2px;
+}
+.heading-44 {
+  width: calc(100% - 100px);
+  top: 113.5px;
+  right: 50px;
+  left: 50px;
+}
+.section4 {
+  width: 245px;
+  position: relative;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.15);
+  background-color: transparent;
+  height: 212.8px;
+  font-size: 23.8px;
+}
+.enginepng-icon {
+  position: absolute;
+  top: calc(50% - 22.4px);
+  left: 0;
+  width: 44.8px;
+  height: 44.8px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.divelementor-image5 {
+  position: absolute;
+  width: calc(100% - 100px);
+  top: 50px;
+  right: 50px;
+  left: 50px;
+  height: 44.8px;
+}
+.engine-replacement {
+  position: absolute;
+  top: -0.5px;
+  left: 0;
+  line-height: 24px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 149.6px;
+  height: 48px;
+}
+.heading-45 {
+  position: absolute;
+  width: calc(100% - 100px);
+  top: 114.8px;
+  right: 50px;
+  left: 50px;
+  height: 48px;
+}
+.section5 {
+  width: 249.4px;
+  position: relative;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.15);
+  background-color: transparent;
+  height: 212.8px;
+}
+.car-fail-512png-icon {
+  position: absolute;
+  top: calc(50% - 22.8px);
+  left: 0;
+  width: 45.6px;
+  height: 45.6px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.divelementor-image6 {
+  position: absolute;
+  width: calc(100% - 100px);
+  top: 50px;
+  right: 50px;
+  left: 50px;
+  height: 45.6px;
+}
+.heading-46 {
+  position: absolute;
+  top: 115.6px;
+  left: 50px;
+  line-height: 24px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 152.2px;
+  height: 24px;
+}
+.section6 {
+  width: 252px;
+  position: relative;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.15);
+  background-color: transparent;
+  height: 212.8px;
+  font-size: 23.6px;
+}
+.health-checkup {
+  position: absolute;
+  top: -0.5px;
+  left: 0;
+  line-height: 24px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 101.6px;
+  height: 48px;
+}
+.section7 {
+  width: 245px;
+  position: relative;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.15);
+  background-color: transparent;
+  height: 212.8px;
+}
+.section-group {
+  position: absolute;
+  top: 361px;
+  left: 61px;
+  width: 1320px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  font-size: 23.4px;
+}
+.section-heading-2-enjoy-al-parent {
+  position: absolute;
+  top: 824px;
+  left: calc(50% - 720px);
+  border-bottom: 0.8px solid #54595f;
+  box-sizing: border-box;
+  width: 1440px;
+  height: 625px;
+  overflow: hidden;
+}
+.section-link-01-app-store-,
+.section-link-02-play-store {
+  position: absolute;
+  top: calc(50% - 18.5px);
+  left: calc(50% - 147px);
+  width: 136.8px;
+  height: 40.5px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.section-link-01-app-store- {
+  left: calc(50% + 10px);
+}
+.section-link {
+  top: 0;
+  right: 157px;
+  line-height: 15px;
+  font-weight: 500;
+  width: 137px;
+  height: 15px;
+}
+.section-link,
+.section-link1,
+.section8 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.section-link1 {
+  top: 2px;
+  right: 0;
+  font-size: 14.1px;
+  line-height: 15px;
+  font-weight: 500;
+  width: 137px;
+  height: 15px;
+}
+.section8 {
+  top: 117px;
+  left: 0;
+  font-size: 13.1px;
+  line-height: 14px;
+  font-weight: 300;
+  width: 294px;
+  height: 14px;
+}
+.section-link-02-play-store-parent {
+  position: absolute;
+  top: calc(50% - 68.5px);
+  left: calc(50% - 147px);
+  width: 294px;
+  height: 131px;
+}
+.section-house-container1 {
+  width: 100%;
+}
+.section-house-container {
+  position: absolute;
+  top: 0;
+  right: 0.9px;
+  font-size: 14.5px;
+  line-height: 25.5px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 181.1px;
+  height: 51px;
+}
+.section-096-06-404040 {
+  top: 61px;
+  right: 0;
+  font-size: 12.7px;
+  line-height: 15px;
+  font-weight: 500;
+  width: 102px;
+  height: 15px;
+}
+.section-096-06-404040,
+.section-supportzantrikcom,
+.symbol,
+.symbol1 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.section-supportzantrikcom {
+  top: 91px;
+  right: 1px;
+  font-size: 13.7px;
+  line-height: 15px;
+  font-weight: 500;
+  width: 195px;
+  height: 21px;
+}
+.symbol,
+.symbol1 {
+  top: 117px;
+  left: calc(50% + 47px);
+  line-height: 20px;
+  font-family: "Font Awesome 5 Brands";
+  color: rgba(84, 89, 95, 0.73);
+  text-align: center;
+  justify-content: center;
+  width: 12.8px;
+  height: 20px;
+}
+.symbol1 {
+  left: calc(50% + 79px);
+  width: 17.8px;
+}
+.section-house-1-road-8-sec-parent {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 196px;
+  height: 137px;
+  text-align: right;
+  font-size: 20px;
+}
+.auto-service-2 {
+  position: absolute;
+  top: 33px;
+  left: 0;
+  width: 156px;
+  height: 80px;
+  object-fit: cover;
+}
+.group-parent {
+  position: absolute;
+  top: calc(50% + 673px);
+  left: calc(50% - 660px);
+  width: 1320px;
+  height: 137px;
+  text-align: center;
+  font-size: 13.9px;
+  color: #54595f;
+}
+.maintaenance {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  height: 1700px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 36px;
+  color: #3c3f44;
+  font-family: Inter;
+}
